@@ -21,24 +21,6 @@ Provides three clear and practical suggestions to improve the resume.
 
 ---
 
-## Prerequisites
-
-Before running this application, ensure you have the following:
-
-- Python 3.9 or higher installed on your machine
-- A Google AI Studio API key (available from Google AI Studio)
-
----
-
-## Getting Started
-
-1. In VS Code, create a new file named `README.md`.
-2. Copy and paste this content into the file.
-3. Save the file.
-4. When you upload your project to GitHub, this README will automatically appear as your project’s homepage.
-
----
-
 ## Project Purpose
 
 This project is designed to help job seekers evaluate and improve their resumes using AI-driven insights, making career development more accessible and efficient.
